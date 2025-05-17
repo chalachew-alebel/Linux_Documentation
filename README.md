@@ -1,4 +1,8 @@
-This repository contains two major components: 1. Lubuntu OS Installation on VMware Workstation  A comprehensive guide to installing Lubuntu, a lightweight Linux distribution, using VMware Workstation.                   Included in the PDF:       .Introduction to Lubuntu OS  .Objectives of the Installation  .System Requirements              .Step-by-Step Installation Instructions 
+This repository contains two major components: 
+
+
+
+1. Lubuntu OS Installation on VMware Workstation  A comprehensive guide to installing Lubuntu, a lightweight Linux distribution, using VMware Workstation.                   Included in the PDF:       .Introduction to Lubuntu OS  .Objectives of the Installation  .System Requirements              .Step-by-Step Installation Instructions 
 
 
 
